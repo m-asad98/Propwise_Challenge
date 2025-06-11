@@ -1,1 +1,1 @@
-# Propwise_Challenge
+This Jupyter notebook performs a data analysis workflow on a real estate transactions dataset using PySpark for large-scale data processing and matplotlib for visualization. The primary goal is to clean, process, and derive insights from real estate transactions — such as analyzing average property prices per region — in an efficient and scalable way.
